@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Modal
-Plugin URI: https://github.com/infinitail/YOURLS-modal
-Description:
+Plugin URI: https://github.com/infinitail/YOURLS_modal
+Description: Replace Javascript confirm() on delete short URL to HTML modal.
 Version: 0.1
 Author: Infinitail
 Author URI: https://github.com/infinitail
